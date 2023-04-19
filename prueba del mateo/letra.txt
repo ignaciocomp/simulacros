@@ -1,0 +1,19 @@
+A una empresa le interesa llevar un registro de las ventas de vehiculos a fines de obtener datos
+estadisticos. Por tal motivo le solicito un sitio web en el que se pueda ingresar los datos y 
+muestre las estadisticas solicitadas. De cada cliente se ingresa el nombre, el monto total del
+vehiculo y tipo (Motocicleta, Camion, Automovil)
+
+Se necesitan las siguientes estadisticas:
+1. Cantidad de ventas de automoviles.
+2. Monto total de ventas de Motocicletas.
+3. Promedio total de todas las ventas.
+4. Mostrar el detalle de la compra con mayor monto, indicando ademas el nombre del
+cliente que la efectuo, el monto y tipo de vehiculo. En caso de existir mas de una compra
+maxima cualquiera de ellas.
+
+Se pide:
+1) Hacer un dibujo de la interfaz a construir para resolver el problema.
+2) Escribir el codigo HTML (solo el contenido dentro del body).
+3) Escribir el codigo de la funcion que se ejecuta al hacer clic en el boton "Ingresar compra",
+esta funcion debe mostrar las estadisticas en un parrafo sin borrar la informacion que se mostro
+antes y saltando de linea en cada nueva
